@@ -1,4 +1,4 @@
-# MIT-MIMIC-Obesity-Paradox
+# MIT-MIMIC-III-Obesity-Paradox
 
 Files for Obesity Paradox Project. 
 
